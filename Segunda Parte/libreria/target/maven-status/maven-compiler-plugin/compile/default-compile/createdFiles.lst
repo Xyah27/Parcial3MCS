@@ -1,0 +1,3 @@
+com\example\libreria\controller\CommonController.class
+com\example\libreria\service\CommonService.class
+com\example\libreria\service\CommonServiceImpl.class
