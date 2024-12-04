@@ -1,0 +1,3 @@
+service\CommonService.class
+service\CommonServiceImpl.class
+controller\CommonController.class
